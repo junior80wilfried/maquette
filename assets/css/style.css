@@ -7,7 +7,7 @@
 .fond{
     width: 2000px;
     height: 1300px;
-    background-image: url(/assets/images/img.jpg);
+    background-image: url("./assets/images/img.jpg");
     display: flex; 
     margin: auto;
 
